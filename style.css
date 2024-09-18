@@ -1,0 +1,10 @@
+:root{
+    --cor-principal: blue;
+    --cor-segundaria: purple;
+    --botao-azul: rgb(200, 200, 214);
+    --cor-fundo: yellow;
+}
+
+body {
+    background-color:var(--cor-fundo);
+}
